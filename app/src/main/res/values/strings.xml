@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TallerUnimag2</string>
+    <string name="item1">Aleatorio</string>
+    <string name="item2">Distancia</string>
+    <string name="item3">Opcion 3</string>
+    <string name="ingresar">Ingresar numero</string>
+    <string name="pendiente">Pendiente</string>
+    <string name="cuadrante">Cuadrante</string>
+    <string name="puntomedio">Punto Medio</string>
+</resources>
